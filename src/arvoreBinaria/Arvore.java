@@ -1,7 +1,6 @@
 package arvoreBinaria;
 
 import java.util.Iterator;
-import java.util.Objects;
 
 /**
  * Classe que refenrencia a base da árvore binária, É a interface entre o usuáio

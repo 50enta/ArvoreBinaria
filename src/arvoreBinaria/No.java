@@ -101,7 +101,7 @@ public class No<T extends Comparable<T>> implements Cloneable {
      * Remoção do nó com um filho, direita o esquerda
      *
      * @param Objecto
-     * @return
+     * @return 847015731
      */
     private boolean removerCaso2(T Objecto, No raiz) {
         No ant1 = raiz.getNoAnterior(Objecto, null);
